@@ -31,11 +31,9 @@ git clone https://github.com/Qz1ch/final_sprint2.git
 ## 2.Перейдите в папку проекта и запустите сервер:
 ```
 Запустите оркестратор:
-```bash
 go run ./cmd/server/...
 ```
 Запустите агента:
-```bash
 go run ./cmd/ag_launch/...
 ```
 
